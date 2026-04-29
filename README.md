@@ -1,2 +1,1 @@
-# lab0-tad-lista-cuenta-corriente-PUBLICO
-LAB 0
+LABORATORIO 0, El objetivo fue gestionar movimientos de una cuenta bancaria utlizando Phyton y poder diferenciar entre abstracción e implementación, pude completar la gran mayoría y me gustaría mejorar la velocidad con la que lo hice y manejar más el lenguaje de phyton.
